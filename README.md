@@ -1,4 +1,4 @@
-# TestPtoject
+# TestProject
 Repository for test task
 
 There's problem with baking TestScene. After baking scene becomes dark.
